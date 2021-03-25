@@ -2,3 +2,4 @@
  el texto en mayúscula (utilizar toUpperCase).*/
 x="Hello World";
 y=x.toUpperCase();
+console.log(y);

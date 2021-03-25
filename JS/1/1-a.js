@@ -3,3 +3,4 @@ de la suma de ambos números en una 3er variable.*/
 x=3;
 y=4;
 z=x+y;
+console.log(z);

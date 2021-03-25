@@ -3,3 +3,4 @@
 x="Hello ";
 y="World";
 z=x.length+y.length;
+console.log(z);

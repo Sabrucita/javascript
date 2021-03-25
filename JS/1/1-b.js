@@ -3,3 +3,4 @@ una 3er variable.*/
 x="Hello ";
 y="World";
 z=x+y;
+console.log(z);

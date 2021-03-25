@@ -4,3 +4,4 @@ nueva variable (utilizar substring).*/
 x="Hello World";
 y=x.length;
 z=x.substring(y-3,y);
+console.log(z);

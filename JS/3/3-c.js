@@ -4,3 +4,4 @@ let month=["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agos
 "Septiembre", "Octubre", "Noviembre", "Diciembre"];
 month.unshift("month1","month2");
 month.push("month13","month14");
+console.log(month);

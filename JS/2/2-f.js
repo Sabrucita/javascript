@@ -15,3 +15,4 @@ firstWordMinus=firstWord.toLowerCase();
 secondWord=x.substring(whiteSpace+2,y);
 secondWordMinus=secondWord.toLowerCase();
 result=firstCapitalLetter+firstWordMinus+secondLetterCapital+secondWordMinus;
+console.log(result);

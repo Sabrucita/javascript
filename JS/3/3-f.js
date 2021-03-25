@@ -3,3 +3,4 @@ este separado por un guión - (utilizar join).*/
 let month=["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto",
 "Septiembre", "Octubre", "Noviembre", "Diciembre"];
 month.join("-");
+console.log(month.join("-"));

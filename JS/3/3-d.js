@@ -3,3 +3,4 @@ let month=["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agos
 "Septiembre", "Octubre", "Noviembre", "Diciembre"];
 month.shift();
 month.pop();
+console.log(month);

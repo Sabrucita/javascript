@@ -9,3 +9,4 @@ firstCapitalLetter=firstLetter.toUpperCase();
 restString=x.substring(1,y);
 restStringMinus=restString.toLowerCase();
 result=firstCapitalLetter+restStringMinus;
+console.log(result);

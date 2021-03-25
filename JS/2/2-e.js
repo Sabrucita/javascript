@@ -3,3 +3,4 @@ espacio en blanco. Encontrar la posición del primer espacio en blanco
 y guardarla en una variable (utilizar indexOf).*/
 x="Hello World";
 y=x.indexOf(" ");
+console.log(y);
